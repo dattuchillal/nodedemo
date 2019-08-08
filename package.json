@@ -1,11 +1,12 @@
 {
   "name": "nodejs",
+  "script": "./index.js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Dattu",
   "license": "ISC",
